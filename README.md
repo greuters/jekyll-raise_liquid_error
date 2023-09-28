@@ -7,7 +7,7 @@ This plugin is available as a [RubyGem][ruby-gem].
 Add this line to your application's `Gemfile`:
 
 ```
-gem 'jekyll-raise-liquid-error'
+gem 'jekyll-raise_liquid_error'
 ```
 
 And then execute the `bundle` command to install the gem.
@@ -15,14 +15,14 @@ And then execute the `bundle` command to install the gem.
 Alternatively, you can also manually install the gem using the following command:
 
 ```
-$ gem install jekyll-raise-liquid-error
+$ gem install jekyll-raise_liquid_error
 ```
 
 After the plugin has been installed successfully, add the following lines to your `_config.yml` in order to tell Jekyll to use the plugin:
 
 ```
 gems:
-- jekyll-raise-liquid-error
+- jekyll-raise_liquid_error
 ```
 
 ## Getting Started
@@ -60,4 +60,4 @@ to get a valid Gem. All kudos to mdlincoln.
 
 License: MIT
 
-[ruby-gem]: https://rubygems.org/gems/jekyll-raise-liquid-error
+[ruby-gem]: https://rubygems.org/gems/jekyll-raise_liquid_error
